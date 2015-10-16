@@ -3,6 +3,9 @@
 #include "Metodos/gauss_jordan.h"
 #include "mat_op.h"
 #include "man_dat.h"
+#include "funcionsuma.h"
+
+void suma_matriz();
 
 int main(){
     int seleccion = 0;
